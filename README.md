@@ -1,0 +1,1 @@
+SMDP Affiliate Platform - Plugin for woo adding referral links to products.

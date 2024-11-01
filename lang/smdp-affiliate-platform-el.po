@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SM Products Import\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-07 17:33+0000\n"
+"PO-Revision-Date: 2019-04-07 17:33+0000\n"
+"Last-Translator: FPYB3ssEnh <info@internetwizards.gr>\n"
+"Language-Team: Ελληνικά\n"
+"Language: el\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.1.1"
+
+#: includes/class-smdp-affiliate-platform.php:1122
+msgid "Invoice data"
+msgstr "Επιθυμώ έκδοση τιμολογίου"
+
+#: includes/class-smdp-affiliate-platform.php:1130
+msgid "Profession"
+msgstr "Επάγγελμα"
+
+#: includes/class-smdp-affiliate-platform.php:1137
+msgid "Tax Office"
+msgstr "ΔΟΥ"
+
+#: includes/class-smdp-affiliate-platform.php:1144
+msgid "VAT number"
+msgstr "ΑΦΜ"
+
+#. Name of the plugin
+msgid "SM Products Import"
+msgstr ""
+
+#. Description of the plugin
+msgid "Plugin for woo products importing."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://co.soft-master.eu/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ilias Gomatos"
+msgstr ""
